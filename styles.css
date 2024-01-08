@@ -132,3 +132,38 @@ nav ul li,
     font-weight: bold;
     color: #1f2937;
 }
+
+/* Action */
+
+.action {
+    background-color: #3882f6;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    margin: 100px 450px;
+    padding: 50px 50px;
+    border-radius: 10px;
+
+}
+
+.action div h3 {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.action div p {
+    font-size: 18px;
+    color: #e5e7eb;
+    font-weight: 300;
+}
+
+.action a button {
+    border: 3px solid #f9faf8;
+    border-radius: 10px;
+    background-color: #3882f6;
+    padding: 8px 45px;
+    font-size: 18px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
