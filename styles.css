@@ -167,3 +167,11 @@ nav ul li,
     font-weight: bolder;
     color: #f9faf8;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    text-align: center;
+    font-size: 18px;
+    padding: 50px;
+}
